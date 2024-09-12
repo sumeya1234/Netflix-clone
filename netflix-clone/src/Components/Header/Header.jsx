@@ -7,7 +7,7 @@ import AccountBoxIcon from "@mui/icons-material/AccountBox";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 const Header = () => {
   return (
-    <>
+    
       <div className="header_outer_container">
         <div className="header_container">
           <div className="header_left">
@@ -41,7 +41,7 @@ const Header = () => {
           </div>
         </div>
       </div>
-    </>
+    
   );
 }
 
