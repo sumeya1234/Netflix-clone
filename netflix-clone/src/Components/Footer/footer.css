@@ -6,14 +6,13 @@
 }
 .footer_inner_container{
     width:60%;
-    /* background-color: red; */
 }
 .footer_icons{
-    /* background-color: blue; */
     width: 12%;
     display: flex;
     justify-content: space-between;
-    margin-left: 1opx;
+    margin-left: 10px;
+    margin-bottom: 10px;
     color: #fff;
 }
 .footer_data{
@@ -26,7 +25,6 @@
     flex-direction: column;
     justify-content: space-around;
     height: 12vh;
-    /* background-color: blue; */
 }
 .footer_data ul li{
     cursor: pointer;
